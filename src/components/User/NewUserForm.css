@@ -1,0 +1,25 @@
+.user-form{
+    margin: 10px auto;
+    max-width: 400px;
+    background-color: #ad40e0;
+}
+.user-form_control{
+    display: flex;
+    flex-direction: column;
+    margin: 10 px 0px;
+
+}
+.user-form_label{
+    color: white;
+    margin-bottom: 3px;
+
+}
+.user-form_input{
+    border: none;
+    outline: none;
+    width: 100%;
+    border-radius: 3px;
+    padding: 3px 5px;
+    display: block;
+    box-sizing: border-box;
+}
